@@ -1,3 +1,8 @@
+Some Important Things to Read:
+
+* [Sub-Reddit Conversation about Discontinued Blynk Local Server](https://www.reddit.com/r/arduino/comments/oqrbq6/comment)
+* [Blynk Community Forum about Discontinued Blynk Local Server](https://community.blynk.cc/t/where-to-download-blynk-local-server/55210)
+
 # What is Blynk?
 Blynk is a platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and the likes over the Internet.  
 You can easily build graphic interfaces for all your projects by simply dragging and dropping widgets.
