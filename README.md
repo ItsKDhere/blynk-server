@@ -1,7 +1,6 @@
-Some Important Things to Read:
-
-* [Sub-Reddit Conversation about Discontinued Blynk Local Server](https://www.reddit.com/r/arduino/comments/oqrbq6/comment)
-* [Blynk Community Forum about Discontinued Blynk Local Server](https://community.blynk.cc/t/where-to-download-blynk-local-server/55210)
+### Some Important Things to Read:
+* [Sub-Reddit Post](https://www.reddit.com/r/arduino/comments/oqrbq6/comment) 
+* [Blynk Community Forum Post](https://community.blynk.cc/t/where-to-download-blynk-local-server/55210)
 
 # What is Blynk?
 
